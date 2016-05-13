@@ -12,5 +12,10 @@ namespace MergeTest
         {
 
         }
+
+        public static void methodC()
+        {
+
+        }
     }
 }
